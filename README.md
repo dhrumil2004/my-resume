@@ -26,3 +26,6 @@ This is my personal **resume webpage**, built as part of my web development lear
 **Dhrumil Solanki**  
 [Email Me](mailto:sdhrumil31@gmail.com)  
 [GitHub Profile](https://github.com/dhrumil2004)
+
+## Related Project
+Check out my [Portfolio Website](https://dhrumil2004.github.io/my-portfolio/)
